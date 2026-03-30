@@ -8,12 +8,12 @@ Email : soravit.sa@kkumail.com
 ## 📄 Assignments
 
 | Assignment | Document Link | PDF File |
-|-----------|---------------|----------|
+|---------------|---------------|-------|
 | Essay Link | [Personal Essay](https://docs.google.com/document/d/11nvoxZxldWSgnHfbTxsRpUyj4XV8Y6dmi0By8083TUE/edit?usp=sharing) | [Personal Essay PDF](./Assignments/Personal_essay.pdf) |
 | Examine Sample Topology | [Examine Sample Topology](https://docs.google.com/document/d/1CIsmjcqvHMJblH4d3Tpu_JvOie9R7-6wzlpcmTx-fC8/edit?usp=sharing) | [Examine Sample Topology PDF](./Assignments/Assignment2.pdf) |
 | Build a Not-Simple Network | [Build a Not-Simple Network](https://docs.google.com/document/d/1dqsD_pvxm_G1FJOx1Vxh3tY7KQm-5BC2hOYYm2xG5w4/edit?usp=sharing) | [Build a Not-Simple Network PDF](./Assignments/Assignment3.pdf) |
 | TCP and UDP Communications | [TCP and UDP Communications](https://docs.google.com/document/d/1Kc0obT6hEGcb2ab0LTxqPhneaMdNRLPkS2C8xg-rR-s/edit?usp=sharing) | [TCP and UDP Communications PDF](./Assignments/Assignment4.pdf) |
-| Design a new network | [The Planetory Laser-Link](https://docs.google.com/document/d/1y_WAwktwegxmxNc5L3kbcAw48hG6ms6k0Fxvzm_GM3s/edit?usp=sharing) | [The Planetory Laser-Link PDF](./Assignments/The-Planetory-Laser-Link_ Multi-Sensory-Deep-Space-Network.pdf) |
+| Design a New Network | [The Planetory Laser-Link](https://docs.google.com/document/d/1y_WAwktwegxmxNc5L3kbcAw48hG6ms6k0Fxvzm_GM3s/edit?usp=sharing) | [Laser-Link-PDF](./Assignments/The-Planetory-Laser-Link_%20Multi-Sensory-Deep-Space-Network.pdf) |
 
 ---
 
@@ -36,6 +36,7 @@ Email : soravit.sa@kkumail.com
 Project repository:  
 https://github.com/Bigzzz0/interplanetary-network.git
 
+
 <img src = "./image/interplanetary_network.png" style="width: 80%; height: auto;"/>
 
 ---
@@ -53,5 +54,7 @@ These are the scores from all the Checkpoint Exams taken at the Cisco Networking
 | Course | Source | PDF File |
 |-----------|---------------|----------|
 | Pre1 Computer Networks – Getting Started with Cisco Packet Tracer | Cisco | [Certificate](./Certification/Getting_Started_with_Cisco_Packet_Tracer_certificate_soravit-sa-kkumail-com_2073d450-cd8a-46e9-a1f7-79a77eb44846.pdf) |
+
+<img src ="./image/Certificate.png" style="width: 80%; height: auto;"/>
 
 ---
