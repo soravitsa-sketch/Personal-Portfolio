@@ -53,9 +53,14 @@ These are the scores from all the Checkpoint Exams taken at the Cisco Networking
 | Course | Source | PDF File |
 |-----------|---------------|----------|
 | Pre1 Computer Networks – Getting Started with Cisco Packet Tracer | Cisco | [Certificate](./Certification/Getting_Started_with_Cisco_Packet_Tracer_certificate_soravit-sa-kkumail-com_2073d450-cd8a-46e9-a1f7-79a77eb44846.pdf) |
+| CCNA: Introduction to Networks | Cisco | [Certificate](./Certification/CCNA-_Introduction_to_Networks_certificate_soravit-sa-kkumail-com_70c6ed10-03b2-4513-9e9b-fd4c3c75ea58.pdf)
 
 **From : Pre1 Computer Networks – Getting Started with Cisco Packet Tracer**
 
 <img src ="./image/Certificate.png" style="width: 80%; height: auto;"/>
+
+**From : CCNA: Introduction to Networks**
+
+<img src ="./image/Certificate2.png" style="width: 80%; height: auto;"/>
 
 ---
